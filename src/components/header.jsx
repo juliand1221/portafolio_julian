@@ -1,11 +1,15 @@
-import
+import logo from "../media/icon.png"
+
+
 const Header=() =>{
     return(
         <header className="header">
             <div className="container logo-nav-container">
-                <a className="logo">
-                    <img className="circular-square" src="./media/icon.png"/>
-                </a>
+                <div className="logo">
+                    
+                    <img className="circular-square" src={logo}/>
+                
+                </div>
                 <span className="menu-icon">MENU</span>
                 <nav className="navigation">
                     <ul>
@@ -19,3 +23,5 @@ const Header=() =>{
         </header>
     );
 };
+
+export default Header;
