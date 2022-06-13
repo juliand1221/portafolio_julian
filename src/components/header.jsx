@@ -1,3 +1,4 @@
+import "../styles/header.css"
 import logo from "../media/icon.png"
 
 

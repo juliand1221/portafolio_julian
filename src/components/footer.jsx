@@ -46,13 +46,14 @@ const Footer =() =>{
                         <div class="row2">
                             <img src={ubicacion}  />
                             <label>
-                                Cali,
-                                Colombia
+                                Barcelona,
+                                España
                             </label>
                         </div>
                         <div class="row2">
                             <img src={whatsapp} />
                             <label>
+                                +64 (649)-899927
                                 +57 (321)-7219328
                             </label>
                         </div>
