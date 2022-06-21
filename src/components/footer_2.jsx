@@ -45,7 +45,7 @@ const Footer_2 =() =>{
             </div>
 
             <div className="footer_2_bottom">
-                <p>copyright &copy;2021 <a href="#">foolishdeveloper</a>  </p>
+                <p>copyright &copy;2022 <a href="#">foolishdeveloper</a>  </p>
             </div>
 
 
