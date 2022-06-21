@@ -1,5 +1,11 @@
+.app {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 .img-principal {
-    display: block;
-    margin: auto;
-    width: 10cm;
+  display: block;
+  margin: auto;
+  width: 10cm;
 }

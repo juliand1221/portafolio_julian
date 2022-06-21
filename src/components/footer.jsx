@@ -1,3 +1,4 @@
+import "../styles/footer.css"
 import facebook from "../media/redes/facebook.png"
 import twitter from "../media/redes/gorjeo.png"
 import instagram from "../media/redes/instagram.png"
