@@ -1,10 +1,17 @@
 .app {
-    display: flex;
+    display: block;
 }
 
 
-.img-principal {
-    display: block;
+.foto {
+    display: flex;
     margin: auto;
-    width: 20cm;
+    height: auto;
+    width: 10cm;
+    padding-top: 10%;
+}
+
+.texto-ejemplo {
+    text-align: center;
+    padding: 10%;
 }
