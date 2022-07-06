@@ -1,18 +1,1 @@
-.app {
-  display: block;
-}
-
-.foto {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  margin: auto;
-  height: auto;
-  width: 10cm;
-  padding-top: 10%;
-}
-
-.texto-ejemplo {
-  text-align: center;
-  padding: 10%;
-}
+/* No CSS */
