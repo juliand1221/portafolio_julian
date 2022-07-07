@@ -1,6 +1,6 @@
 .foto{
     border-radius: 50%;
-    padding-top: 10%;
+    padding-top: 2%;
     display: block;
     margin: 0px auto;
 }
@@ -8,4 +8,28 @@
     text-align: center;
     padding: 2%;
 }
+.olivetti{
+    text-align: center;
+    padding-top: 10%;
+    width: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    font-size: 1.6rem;
+    margin: 0 auto;
+    animation: typing 4s steps(38) 1s 1 normal both, blink 1s steps(1) infinite;
+}
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+@keyframes blink {
+  50% {
+    border-color: transparent;
+  }
+}
+
 

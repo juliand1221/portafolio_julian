@@ -4,6 +4,9 @@ import foto from "../media/redes/Perfil_Julian.jpeg"
 const Presentacion=() => {
     return (
         <div>
+          <div className="olivetti">
+            <h1>Bienvenido a mi Pagina Web!</h1>
+          </div>
           <div>
             <img className="foto" src={foto} alt="Perfil"/>
           </div>
