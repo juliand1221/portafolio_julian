@@ -1,6 +1,8 @@
-import { BrowserRouter as Router, Switch, Route, Link} from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+import "./styles/App.css"
 import Index from './pages/Principal';
 import Curriculum from "./pages/cv"
+
 
 import './styles/App.css';
 
@@ -10,12 +12,14 @@ function App() {
     <div>
       <Router>
         <Switch>
-          <Route path="/index">
-            <Index />
-          </Route>
-          <Route path="/about">
-            <Curriculum />
-          </Route>
+          
+              <Route path="/about">
+                <Curriculum />
+              </Route>
+              <Route path="/">
+                <Index />
+            </Route>
+          
         </Switch>
       </Router>
     </div>

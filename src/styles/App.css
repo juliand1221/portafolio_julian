@@ -1,1 +1,14 @@
-/* No CSS */
+* {
+  margin: 0px;
+  padding: 0px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #abd1c6;
+  color: black;
+  font-size: 1.1rem;
+  margin: 0;
+}

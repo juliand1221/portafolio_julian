@@ -7,14 +7,16 @@
 .text-presentacion{
     text-align: center;
     padding: 2%;
+    color: #001e1d;
 }
 .olivetti{
     text-align: center;
+    color: #001e1d;
     padding-top: 10%;
     width: 0;
     overflow: hidden;
     white-space: nowrap;
-    font-size: 1.6rem;
+    font-size: 1.5rem;
     margin: 0 auto;
     animation: typing 4s steps(38) 1s 1 normal both, blink 1s steps(1) infinite;
 }

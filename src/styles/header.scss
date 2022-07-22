@@ -1,15 +1,5 @@
-* {
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
-}
 
-body {
-    font-family: sans-serif;
-    color: #333;
-    font-size: 1.1rem;
-    margin: 0;
-}
+
 
 .container {
     width: 85%;
@@ -17,14 +7,11 @@ body {
     margin: 0 auto;
 }
 
-h1 {
-    font-size: 2rem;
-    line-height: 1.3em;
-}
+
 
 .header {
-    background: #333;
-    color: white;
+    background: white;
+    color: black;
     padding: 2rem 0;
 
     position: fixed; //posicion fija hace que se suban las cosas
@@ -35,7 +22,7 @@ h1 {
 }
 
 .header a {
-    color: white;
+    color: black;
     text-decoration: none;
 }
 
@@ -72,7 +59,7 @@ h1 {
 }
 
 .navigation ul li a:hover {
-    background: #4a4a4a;
+    background: #abd1c6;
 }
 
 .main {
@@ -120,4 +107,4 @@ h1 {
         background: #4a4a4a;
     }
 
-    
+}

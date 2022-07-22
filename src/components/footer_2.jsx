@@ -18,7 +18,7 @@ const Footer_2 =() =>{
                     <li>
                         <a href="https://www.facebook.com/julian.tenorio1/" target="_blank">
                             <img src={facebook} />
-                        </a>
+                        </ a>
                     </li>
                     <li>
                         <a href="https://twitter.com/juliantenorio" target="_blank">
