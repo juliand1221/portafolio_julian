@@ -1,22 +1,12 @@
-.foto {
-  border-radius: 50%;
-  padding-top: 2%;
-  display: block;
-  margin: 0px auto;
-}
-
-.text-presentacion {
-  padding-top: 2%;
-}
-
-.olivetti {
-  text-align: center;
+.title-about {
+  text-align: left;
   color: #001e1d;
   padding-top: 10%;
+  padding-left: 5%;
   width: 0;
   overflow: hidden;
   white-space: nowrap;
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   margin: 0 auto;
   -webkit-animation: typing 4s steps(38) 1s 1 normal both, blink 1s steps(1) infinite;
           animation: typing 4s steps(38) 1s 1 normal both, blink 1s steps(1) infinite;
@@ -50,4 +40,9 @@
   50% {
     border-color: transparent;
   }
+}
+
+.text-about {
+  padding: 2%;
+  word-spacing: normal;
 }

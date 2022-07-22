@@ -8,7 +8,7 @@ const Index=() => {
         <div>
           <Header/>
           <div className="olivetti">
-            <h1>Bienvenido a mi Pagina Web!</h1>
+            <h1>¡HEY!, Welcome to my portfolio web</h1>
           </div>
           <div>
             <img className="foto" src={foto} alt="Perfil"/>
