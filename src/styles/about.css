@@ -1,4 +1,4 @@
-.title-about {
+/* .title-about {
   text-align: left;
   color: #001e1d;
   padding-top: 10%;
@@ -10,6 +10,15 @@
   margin: 0 auto;
   -webkit-animation: typing 4s steps(38) 1s 1 normal both, blink 1s steps(1) infinite;
           animation: typing 4s steps(38) 1s 1 normal both, blink 1s steps(1) infinite;
+} */
+
+.title-about {
+  width: 100%;
+  padding-top: 10%;
+  padding-left: 10%;
+  color: #001e1d;
+  font-size: 2.5rem;
+
 }
 
 @-webkit-keyframes typing {
