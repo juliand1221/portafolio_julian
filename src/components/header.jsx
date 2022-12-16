@@ -1,5 +1,5 @@
-import "../styles/header.css"
-import logo from "../media/icon.png"
+import "styles/header.css"
+import logo from "media/icon.png"
 import {Link} from "react-router-dom"
 
 

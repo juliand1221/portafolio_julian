@@ -1,7 +1,7 @@
-import  "../styles/presentacion.css"
-import foto from "../media/redes/Perfil_Julian.jpeg"
-import Header from "../components/header";
-import Footer_2 from "../components/footer_2";
+import  "styles/presentacion.css"
+import foto from "media/redes/Perfil_Julian.jpeg"
+import Header from "components/header";
+import Footer_2 from "components/footer_2";
 
 const Index=() => {
     return (

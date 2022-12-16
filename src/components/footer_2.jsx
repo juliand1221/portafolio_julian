@@ -1,10 +1,10 @@
 
-import "../styles/footer_2.css"
-import facebook from "../media/redes/facebook.png"
-import twitter from "../media/redes/gorjeo.png"
-import instagram from "../media/redes/instagram.png"
-import linkedin from "../media/redes/linkedin.png"
-import github from "../media/redes/github.png"
+import "styles/footer_2.css"
+import facebook from "media/redes/facebook.png"
+import twitter from "media/redes/gorjeo.png"
+import instagram from "media/redes/instagram.png"
+import linkedin from "media/redes/linkedin.png"
+import github from "media/redes/github.png"
 
 const Footer_2 =() =>{
     return(

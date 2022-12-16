@@ -1,5 +1,5 @@
-import Header from "../components/header"
-import Footer_2 from "../components/footer_2"
+import Header from "components/header"
+import Footer_2 from "components/footer_2"
 
 const LayoutPrincipal = ({children})=>{
     return(

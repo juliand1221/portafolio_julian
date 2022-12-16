@@ -1,12 +1,12 @@
-import "../styles/footer.css"
-import facebook from "../media/redes/facebook.png"
-import twitter from "../media/redes/gorjeo.png"
-import instagram from "../media/redes/instagram.png"
-import linkedin from "../media/redes/linkedin.png"
-import github from "../media/redes/github.png"
-import ubicacion from "../media/tu-ubicacion.png"
-import whatsapp from "../media/redes/whatsapp.png"
-import correo from "../media/mail.png"
+import "styles/footer.css"
+import facebook from "media/redes/facebook.png"
+import twitter from "media/redes/gorjeo.png"
+import instagram from "media/redes/instagram.png"
+import linkedin from "media/redes/linkedin.png"
+import github from "media/redes/github.png"
+import ubicacion from "media/tu-ubicacion.png"
+import whatsapp from "media/redes/whatsapp.png"
+import correo from "media/mail.png"
 
 const Footer =() =>{
     return(

@@ -1,6 +1,6 @@
-import "../styles/about.css"
-import Header from "../components/header"
-import Footer_2 from "../components/footer_2"
+import "styles/about.css"
+import Header from "components/header"
+import Footer_2 from "components/footer_2"
 
 
 
